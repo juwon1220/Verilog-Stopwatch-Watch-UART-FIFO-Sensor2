@@ -1,4 +1,4 @@
-ppt 링크(#./project2.pptx)
+ppt 링크(./project2.pptx)
 
 1. **프로젝트 목적**
     
