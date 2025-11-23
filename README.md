@@ -1,5 +1,3 @@
-[ppt 링크](./베릴로그-project-2.sensor_uart_watch(with_박찬호,_석경현,_신상혁).pptx)
-
 1. **프로젝트 목적**
     
     FPGA보드의 Seven Segment에 Stopwatch와 Watch의 값, 그리고 Sensor의 값(온습도, 거리)을 스위치에 따라 출력시키고자 함.
