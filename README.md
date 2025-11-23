@@ -1,4 +1,4 @@
-ppt 링크(./베릴로그 project 2. sensor_uart_watch(with 박찬호, 석경현, 신상혁), 동작 영상 제거.pptx)
+ppt 링크(#./베릴로그 project 2. sensor_uart_watch(with 박찬호, 석경현, 신상혁), 동작 영상 제거.pptx)
 
 1. **프로젝트 목적**
     
