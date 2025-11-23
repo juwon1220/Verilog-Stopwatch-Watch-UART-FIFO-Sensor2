@@ -1,4 +1,4 @@
-[ppt 링크](#./project2.pptx)
+[ppt 링크](./베릴로그-project-2.sensor_uart_watch(with_박찬호,_석경현,_신상혁).pptx)
 
 1. **프로젝트 목적**
     
